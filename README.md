@@ -1,3 +1,3 @@
 # House-Rate-Prediction
 House Rate Prediction using Python and SKLearn
-![image](https://user-images.githubusercontent.com/91139017/220568259-3b5d849e-6dff-40d0-ade7-43504fef7e5f.png)
+![image](C:\Users\KIIT\Desktop\Screenshot 2023-07-11 014527.jpg)
