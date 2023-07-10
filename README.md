@@ -1,5 +1,8 @@
-# House-Rate-Prediction
-House Rate Prediction using Python and SKLearn
+# House Rate Prediction using Python and SKLearn
+
+The code provided is written in a Jupyter Notebook using Python. It loads the California housing dataset, performs some data analysis and visualization, and trains a linear regression model to predict house prices
+
+
 ![Screenshot 2023-07-11 014527](https://github.com/swaz05/House-Rate-Prediction/assets/91139017/140cbb02-513f-4b98-87bc-c17ca1d749db)
 Explore the correlation between features using HeatMap
 ![Screenshot 2023-07-11 014731](https://github.com/swaz05/House-Rate-Prediction/assets/91139017/eebfb224-9618-428c-b307-f78a219ebfe1)
